@@ -26,5 +26,4 @@ func AlphaNumber(n int) string {
 		}
 
 		return alphanumber
-
 }
